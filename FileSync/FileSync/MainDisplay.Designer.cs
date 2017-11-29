@@ -233,7 +233,7 @@ namespace FileSync
                 Autosync.bar = this.textBox1;
                 Autosync.me = this;
                 Autosync.layoutmanager = this.LayoutManager;
-                Autosync.startSync(null, null);
+                Sync.sync(Autosync.bar, Autosync.layoutmanager, Autosync.me);
             }).Start();
         }
             else

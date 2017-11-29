@@ -21,7 +21,6 @@ C:\Users\Uttza\source\repos\FileSync\FileSync\bin\Debug\FileSync.exe.CodeAnalysi
 C:\Users\Uttza\source\repos\FileSync\FileSync\bin\Debug\FileSync.exe.lastcodeanalysissucceeded
 C:\Users\Uttza\source\repos\FileSync\FileSync\bin\Debug\AisUriProviderApi.dll
 C:\Users\Uttza\source\repos\FileSync\FileSync\bin\Debug\AisUriProviderApi.pdb
-C:\Users\Uttza\source\repos\FileSync\FileSync\obj\Debug\FileSync.csprojResolveAssemblyReference.cache
 C:\Users\Uttza\source\repos\FileSync\FileSync\obj\Debug\FileSync.csproj.ResolveComReference.cache
 C:\Users\Uttza\source\repos\FileSync\FileSync\obj\Debug\FileSync.MainDisplay.resources
 C:\Users\Uttza\source\repos\FileSync\FileSync\obj\Debug\FileSync.Properties.Resources.resources

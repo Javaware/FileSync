@@ -20,18 +20,17 @@ namespace FileSync
 
         public static void autoRun()
         {
-            System.Timers.Timer myTimer = new System.Timers.Timer();
-            myTimer.Elapsed += new ElapsedEventHandler(startSync);
-            myTimer.Interval = Properties.Settings.Default.autorun; 
-            myTimer.Start();
+            Thread.Sleep(Properties.Settings.Default.autorun);
+            startSync();
         }
 
         
-        public static void startSync(object source, ElapsedEventArgs e)
+        public static void startSync()
         {
          
             layoutmanager.clearAll();
             Sync.sync(Autosync.bar, layoutmanager, me);
+            autoRun();
         }
 
     }
