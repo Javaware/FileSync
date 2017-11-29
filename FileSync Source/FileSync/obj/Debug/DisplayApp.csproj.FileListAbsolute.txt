@@ -1,0 +1,14 @@
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\bin\Debug\DisplayApp.exe.config
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\bin\Debug\DisplayApp.exe
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\bin\Debug\DisplayApp.pdb
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\obj\Debug\DisplayApp.csprojResolveAssemblyReference.cache
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\obj\Debug\DisplayApp.Properties.Resources.resources
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\obj\Debug\DisplayApp.csproj.GenerateResource.Cache
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\obj\Debug\DisplayApp.csproj.CoreCompileInputs.cache
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\obj\Debug\DisplayApp.exe
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\obj\Debug\DisplayApp.pdb
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\obj\Debug\DisplayApp.MainDisplay.resources
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\obj\Debug\DisplayApp.SettingsDisplay.resources
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\bin\Debug\AisUriProviderApi.dll
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\bin\Debug\AisUriProviderApi.pdb
+C:\Users\Uttza\source\repos\DisplayApp\DisplayApp\obj\Debug\DisplayApp.csproj.ResolveComReference.cache
