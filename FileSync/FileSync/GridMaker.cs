@@ -14,12 +14,12 @@ using System.Windows.Forms;
 
 namespace FileSync
 {
-    class GridMaker
+    public class GridMaker
     {
-        private TableLayoutPanel paneltable;
-        private List<Label> quickpics;
-        private List<String> fileNames;
-        private CustomProgressBar progbar;
+        public TableLayoutPanel paneltable;
+        public List<Label> quickpics;
+        public List<String> fileNames;
+        public CustomProgressBar progbar;
 
         public GridMaker(TableLayoutPanel inputtable, CustomProgressBar progbar)
         {

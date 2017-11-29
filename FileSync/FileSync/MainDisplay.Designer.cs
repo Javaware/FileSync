@@ -257,7 +257,7 @@ namespace FileSync
         public System.Windows.Forms.Button syncbutton;
         private Label label1;
         private TableLayoutPanel tableLayoutPanel1;
-        private GridMaker LayoutManager;
+        public GridMaker LayoutManager;
     }
 }
 

@@ -20,6 +20,7 @@ namespace FileSync
 
         public static void autoRun()
         {
+           
             Thread.Sleep(Properties.Settings.Default.autorun);
             startSync();
         }
@@ -27,10 +28,20 @@ namespace FileSync
         
         public static void startSync()
         {
-         
+
+            me.cancel = true;
+            me.syncbutton.Refresh();
+            me.syncbutton.BackgroundImage = Properties.Resources.abort;
+            me.LayoutManager.clearAll();
+
             layoutmanager.clearAll();
             Sync.sync(Autosync.bar, layoutmanager, me);
+            me.cancel = false;
+            me.syncbutton.Refresh();
+            me.syncbutton.BackgroundImage = Properties.Resources.sync;
             autoRun();
+
+            
         }
 
     }

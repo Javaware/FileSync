@@ -29,3 +29,4 @@ C:\Users\Uttza\source\repos\FileSync\FileSync\obj\Debug\FileSync.csproj.Generate
 C:\Users\Uttza\source\repos\FileSync\FileSync\obj\Debug\FileSync.csproj.CoreCompileInputs.cache
 C:\Users\Uttza\source\repos\FileSync\FileSync\obj\Debug\FileSync.exe
 C:\Users\Uttza\source\repos\FileSync\FileSync\obj\Debug\FileSync.pdb
+C:\Users\Uttza\source\repos\FileSync\FileSync\obj\Debug\FileSync.csprojResolveAssemblyReference.cache

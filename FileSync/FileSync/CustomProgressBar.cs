@@ -12,7 +12,7 @@ namespace ProgressBarSample
         CustomText
     }
 
-    class CustomProgressBar : ProgressBar
+    public class CustomProgressBar : ProgressBar
     {
         private String content;
         public CustomProgressBar(String content)
